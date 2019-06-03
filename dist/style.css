@@ -1,0 +1,97 @@
+@font-face {
+  font-family: 'clock';
+  src:
+    url('fonts/clock.ttf?xuzewu') format('truetype'),
+    url('fonts/clock.woff?xuzewu') format('woff'),
+    url('fonts/clock.svg?xuzewu#clock') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'clock' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.cl-0000:before {
+  content: "\e900";
+}
+.cl-0030:before {
+  content: "\e901";
+}
+.cl-0100:before {
+  content: "\e902";
+}
+.cl-0130:before {
+  content: "\e903";
+}
+.cl-0200:before {
+  content: "\e904";
+}
+.cl-0230:before {
+  content: "\e905";
+}
+.cl-0300:before {
+  content: "\e906";
+}
+.cl-0330:before {
+  content: "\e907";
+}
+.cl-0400:before {
+  content: "\e908";
+}
+.cl-0430:before {
+  content: "\e909";
+}
+.cl-0500:before {
+  content: "\e90a";
+}
+.cl-0530:before {
+  content: "\e90b";
+}
+.cl-0600:before {
+  content: "\e90c";
+}
+.cl-0630:before {
+  content: "\e90d";
+}
+.cl-0700:before {
+  content: "\e90e";
+}
+.cl-0730:before {
+  content: "\e90f";
+}
+.cl-0800:before {
+  content: "\e910";
+}
+.cl-0830:before {
+  content: "\e911";
+}
+.cl-0900:before {
+  content: "\e912";
+}
+.cl-0930:before {
+  content: "\e913";
+}
+.cl-1000:before {
+  content: "\e914";
+}
+.cl-1030:before {
+  content: "\e915";
+}
+.cl-1100:before {
+  content: "\e916";
+}
+.cl-1130:before {
+  content: "\e917";
+}
